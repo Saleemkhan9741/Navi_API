@@ -1,0 +1,8 @@
+<suite name = "suite1">
+    <test name = "reqres">
+        <classes>
+            <class name = "Navi.runner.TestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>
